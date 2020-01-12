@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>laser_measurement</name>
+            <creation-uuid>c3983be2-9a62-482b-9ae9-19719b36b84a</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <c-extensions>c</c-extensions>
+            <cpp-extensions/>
+            <header-extensions>h</header-extensions>
+            <asminc-extensions/>
+            <sourceEncoding>ISO-8859-1</sourceEncoding>
+            <make-dep-projects/>
+            <sourceRootList>
+                <sourceRootElem>../../src/CharacterLCD</sourceRootElem>
+                <sourceRootElem>../../src/PIC18F4620</sourceRootElem>
+                <sourceRootElem>../../../../src/CharacterLCD</sourceRootElem>
+                <sourceRootElem>../../../../src/PIC18F4620</sourceRootElem>
+                <sourceRootElem>../../../02_CharacterLCD_2/02_CharacterLCD_2.X</sourceRootElem>
+                <sourceRootElem>..</sourceRootElem>
+            </sourceRootList>
+            <confList>
+                <confElem>
+                    <name>default</name>
+                    <type>2</type>
+                </confElem>
+            </confList>
+            <formatting>
+                <project-formatting-style>false</project-formatting-style>
+            </formatting>
+        </data>
+    </configuration>
+</project>

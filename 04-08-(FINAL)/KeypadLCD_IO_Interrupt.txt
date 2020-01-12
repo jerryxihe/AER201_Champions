@@ -1,0 +1,19 @@
+Oscillator Used:    External, 10 MHz
+Language:           C MPLAB XC8
+LCD:                Hitachi HD44780
+KEYPAD:             Matrix 4X4
+RTC:                Not Used
+Arduino:            Not Used
+A2D:                Not Used
+GLCD:               Not Used
+SD Card:            Not Used
+USB:                Not Used
+
+This code serves as an introduction to interrupts on the PIC in C.
+
+This program executes an infinite loop which causes the first line of the 
+character LCD to cycle between "Chocoloate?" and "CHOCOLATE?!". When a key is
+pressed on the keypad, the character corresponding to the key will be printed on
+the LCD.
+
+This is achieved using RB1's "interrupt on change" feature.

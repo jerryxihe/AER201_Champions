@@ -1,0 +1,10 @@
+menu
+0 - mainMenu
+1 - start
+2 - runFinished
+3 - runInfoMenu
+4 - poleInfo
+5 - saveRun
+6 - selectLog
+7 - runFinishedMenu
+8 - options
